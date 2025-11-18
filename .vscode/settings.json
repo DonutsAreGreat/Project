@@ -1,0 +1,16 @@
+{
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": true
+  },
+  "editor.suggest.showWords": true,
+  "editor.inlineSuggest.enabled": true,
+  "tailwindCSS.experimental.configFile": "tailwind.config.js",
+  "tailwindCSS.includeLanguages": {
+    "javascript": "html",
+    "typescript": "html",
+    "typescriptreact": "html",
+    "javascriptreact": "html"
+  }
+}
